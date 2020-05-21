@@ -1,8 +1,8 @@
-# A simple epidemiological agen-based model of viral spread and hospital saturation
+# A simple epidemiological agent-based model of viral spread and hospital saturation
 :construction: **This model is under construction!** :construction:
 
 This is a simple interactive epidemiological model of viral spread.
-It intends to address the 2019 SARS-CoV-2 pandemic and the sanitary effects of Covid-19.
+It intends to address the 2019 SARS-CoV-2 pandemic and the sanitary effects of COVID-19.
 
 The model is being developed as a Jupyter Notebook on Google Colab. If you wish to run the model and interact with it, we suggest you [do it in Colab](https://colab.research.google.com/github/vsojo/covid19/blob/master/Covid19_model.ipynb).
 
