@@ -1,4 +1,4 @@
-# A simple epidemiological agent-based model of viral spread and symptom progression
+# CovRex: A simple epidemiological agent-based model of viral spread and symptom progression for SARS-CoV-2 and COVID-19 pandemic
 :construction: **This model is under construction!** :construction:
 
 This is a simple interactive epidemiological model of viral spread.
